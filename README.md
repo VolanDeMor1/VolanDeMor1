@@ -9,10 +9,20 @@ My name is Andrew and I only do what I really like 😎
 - **C#** Unity
 - Don't like Python
 
-![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=VolanDeMor1&layout=compact&theme=dark&show_icons=true)
-
 🌱 I’m currently learning Kotlin
 
 🔭 I’m currently working on myself
 
-![Readme Card](https://github-readme-stats.vercel.app/api?username=VolanDeMor1&layout=compact&theme=dark&show_icons=true)
+![](https://komarev.com/ghpvc/?username=VolanDeMor1&style=flat)
+
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=VolanDeMor1&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=VolanDeMor1&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=VolanDeMor1&show_icons=true" />
+</picture>
