@@ -3,13 +3,12 @@
 My name is Andrew and I only do what I really like 😎
 
 ❤ I like the following things: </br>
-- **Java and Kotlin** JDA, Ktor, PaperAPI for Minecraft Plugins
-- **JavaScript/TypeScript (Node.js)** NextJS, NodeJS
+- **Java and Kotlin** Ktor, Android, PaperAPI for Minecraft Plugins
+- **JavaScript/TypeScript** NextJS, React
+- **ScyllaDB** Best database
 - **C++** Arduino
 - **C#** Unity
-- Don't like Python
-
-🌱 I’m currently learning Kotlin
+- I know Python, but hate it.
 
 🔭 I’m currently working on myself
 
